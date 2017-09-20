@@ -67,7 +67,6 @@ public class thirdLab {
      * @param args is the parameter
      */
     public static void main(final String[] args) {
-        //String url = "";
         System.out.println(urlToString("http://erdani.com/tdpl/hamlet.txt"));
         //System.out.println(urlToString("https://www.bls.gov/tus/charts/chart9.txt"));
         //System.out.println
